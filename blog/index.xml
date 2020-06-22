@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Atlas Maîtrise d&#39;oeuvre</title>
+    <link>https://example.org/blog/</link>
+    <description>Recent content in Blogs on Atlas Maîtrise d&#39;oeuvre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Mar 2020 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COMBES</title>
+      <link>https://example.org/blog/2020/03/17/combes/</link>
+      <pubDate>Tue, 17 Mar 2020 13:47:08 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2020/03/17/combes/</guid>
+      <description>Mission Pliotage des tous le corps d&amp;rsquo;états pour le compte de la société ACA.
+Projet Opération d&amp;rsquo;habitation collectif de 47 appartements et 1 niveau de parking sousterrain.</description>
+    </item>
+    
+    <item>
+      <title>Villa EXTAZY</title>
+      <link>https://example.org/blog/2019/11/02/extazy/</link>
+      <pubDate>Sat, 02 Nov 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2019/11/02/extazy/</guid>
+      <description>Mission Direction Projet et pilotage pour la société MGCR
+Projet Réalistation de une villa de trés grand standing sur les hauteurs de cannes.</description>
+    </item>
+    
+    <item>
+      <title>Villa KETAMINE</title>
+      <link>https://example.org/blog/2018/08/03/ketamine/</link>
+      <pubDate>Fri, 03 Aug 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2018/08/03/ketamine/</guid>
+      <description>Mission Direction de projet pour le compte de la société MGCR.
+Projet Constrution de une villa de standing sur les hauteur de cannes.</description>
+    </item>
+    
+    <item>
+      <title>HOTEL OMC</title>
+      <link>https://example.org/blog/2013/09/24/omc/</link>
+      <pubDate>Tue, 24 Sep 2013 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2013/09/24/omc/</guid>
+      <description>Mission Maîtrise d&amp;rsquo;oeuvre délégué pour la société GEORUMO sarl
+Projet l&amp;rsquo;opération prevois la réalisation d un hotel 5 étoile au porte de Monaco avec un capacité de 70 chambres et 4 niveau de parking sousterrain.</description>
+    </item>
+    
+    <item>
+      <title>Désirée Clary</title>
+      <link>https://example.org/blog/2009/10/02/desiree/</link>
+      <pubDate>Fri, 02 Oct 2009 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2009/10/02/desiree/</guid>
+      <description>Mission Direction technique et pilotage de tous les corps d&amp;rsquo;états pour la société FDO
+Projet Réalistation, au coeur de Marseille de 114 appartements, une école de formation d&amp;rsquo;agent territoriaux, une mairie annexe et 2 espace commerciaux.</description>
+    </item>
+    
+    <item>
+      <title>TOSCANA</title>
+      <link>https://example.org/blog/2008/10/17/toscana/</link>
+      <pubDate>Fri, 17 Oct 2008 13:47:08 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2008/10/17/toscana/</guid>
+      <description>Mission Pliotage des tous le corps d&amp;rsquo;états pour le compte de la société FDO.
+Projet Opération d&amp;rsquo;habitation collectif de 114 appartements sur les hauteurs de Marseille et 2 niveau de parking sousterrain.</description>
+    </item>
+    
+    <item>
+      <title>Piscine municipal Matosinho</title>
+      <link>https://example.org/blog/1/01/01/hora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/blog/1/01/01/hora/</guid>
+      <description>Mission Maîtrise d&amp;rsquo;oeuvre délégué pour la société FDO.
+Projet Réalisation de une piscine municipal capable de recevoir des compétion National et espace annexes (café, espace de vente), voiles réalisés en béton blanc, l&amp;rsquo; architecte a reçu un prix d&amp;rsquo;architecture pour cet ouvrage.</description>
+    </item>
+    
+  </channel>
+</rss>

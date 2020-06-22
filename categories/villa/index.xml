@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>villa on Atlas Maîtrise d&#39;oeuvre</title>
+    <link>https://example.org/categories/villa/</link>
+    <description>Recent content in villa on Atlas Maîtrise d&#39;oeuvre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Nov 2019 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/villa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Villa EXTAZY</title>
+      <link>https://example.org/blog/2019/11/02/extazy/</link>
+      <pubDate>Sat, 02 Nov 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2019/11/02/extazy/</guid>
+      <description>Mission Direction Projet et pilotage pour la société MGCR
+Projet Réalistation de une villa de trés grand standing sur les hauteurs de cannes.</description>
+    </item>
+    
+    <item>
+      <title>Villa KETAMINE</title>
+      <link>https://example.org/blog/2018/08/03/ketamine/</link>
+      <pubDate>Fri, 03 Aug 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2018/08/03/ketamine/</guid>
+      <description>Mission Direction de projet pour le compte de la société MGCR.
+Projet Constrution de une villa de standing sur les hauteur de cannes.</description>
+    </item>
+    
+  </channel>
+</rss>

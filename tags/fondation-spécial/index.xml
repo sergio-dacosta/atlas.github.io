@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fondation-spécial on Atlas Maîtrise d&#39;oeuvre</title>
+    <link>https://example.org/tags/fondation-sp%C3%A9cial/</link>
+    <description>Recent content in fondation-spécial on Atlas Maîtrise d&#39;oeuvre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2013 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/fondation-sp%C3%A9cial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HOTEL OMC</title>
+      <link>https://example.org/blog/2013/09/24/omc/</link>
+      <pubDate>Tue, 24 Sep 2013 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2013/09/24/omc/</guid>
+      <description>Mission Maîtrise d&amp;rsquo;oeuvre délégué pour la société GEORUMO sarl
+Projet l&amp;rsquo;opération prevois la réalisation d un hotel 5 étoile au porte de Monaco avec un capacité de 70 chambres et 4 niveau de parking sousterrain.</description>
+    </item>
+    
+    <item>
+      <title>Désirée Clary</title>
+      <link>https://example.org/blog/2009/10/02/desiree/</link>
+      <pubDate>Fri, 02 Oct 2009 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2009/10/02/desiree/</guid>
+      <description>Mission Direction technique et pilotage de tous les corps d&amp;rsquo;états pour la société FDO
+Projet Réalistation, au coeur de Marseille de 114 appartements, une école de formation d&amp;rsquo;agent territoriaux, une mairie annexe et 2 espace commerciaux.</description>
+    </item>
+    
+    <item>
+      <title>Piscine municipal Matosinho</title>
+      <link>https://example.org/blog/1/01/01/hora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/blog/1/01/01/hora/</guid>
+      <description>Mission Maîtrise d&amp;rsquo;oeuvre délégué pour la société FDO.
+Projet Réalisation de une piscine municipal capable de recevoir des compétion National et espace annexes (café, espace de vente), voiles réalisés en béton blanc, l&amp;rsquo; architecte a reçu un prix d&amp;rsquo;architecture pour cet ouvrage.</description>
+    </item>
+    
+  </channel>
+</rss>

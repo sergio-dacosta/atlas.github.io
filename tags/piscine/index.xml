@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>piscine on Atlas Maîtrise d&#39;oeuvre</title>
+    <link>https://example.org/tags/piscine/</link>
+    <description>Recent content in piscine on Atlas Maîtrise d&#39;oeuvre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Nov 2019 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/piscine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Villa EXTAZY</title>
+      <link>https://example.org/blog/2019/11/02/extazy/</link>
+      <pubDate>Sat, 02 Nov 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2019/11/02/extazy/</guid>
+      <description>Mission Direction Projet et pilotage pour la société MGCR
+Projet Réalistation de une villa de trés grand standing sur les hauteurs de cannes.</description>
+    </item>
+    
+    <item>
+      <title>Villa KETAMINE</title>
+      <link>https://example.org/blog/2018/08/03/ketamine/</link>
+      <pubDate>Fri, 03 Aug 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2018/08/03/ketamine/</guid>
+      <description>Mission Direction de projet pour le compte de la société MGCR.
+Projet Constrution de une villa de standing sur les hauteur de cannes.</description>
+    </item>
+    
+    <item>
+      <title>Piscine municipal Matosinho</title>
+      <link>https://example.org/blog/1/01/01/hora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/blog/1/01/01/hora/</guid>
+      <description>Mission Maîtrise d&amp;rsquo;oeuvre délégué pour la société FDO.
+Projet Réalisation de une piscine municipal capable de recevoir des compétion National et espace annexes (café, espace de vente), voiles réalisés en béton blanc, l&amp;rsquo; architecte a reçu un prix d&amp;rsquo;architecture pour cet ouvrage.</description>
+    </item>
+    
+  </channel>
+</rss>

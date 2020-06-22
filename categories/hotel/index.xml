@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hotel on Atlas Maîtrise d&#39;oeuvre</title>
+    <link>https://example.org/categories/hotel/</link>
+    <description>Recent content in hotel on Atlas Maîtrise d&#39;oeuvre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2013 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/hotel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HOTEL OMC</title>
+      <link>https://example.org/blog/2013/09/24/omc/</link>
+      <pubDate>Tue, 24 Sep 2013 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2013/09/24/omc/</guid>
+      <description>Mission Maîtrise d&amp;rsquo;oeuvre délégué pour la société GEORUMO sarl
+Projet l&amp;rsquo;opération prevois la réalisation d un hotel 5 étoile au porte de Monaco avec un capacité de 70 chambres et 4 niveau de parking sousterrain.</description>
+    </item>
+    
+  </channel>
+</rss>

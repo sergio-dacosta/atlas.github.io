@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Atlas Maîtrise d&#39;oeuvre</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on Atlas Maîtrise d&#39;oeuvre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Mar 2020 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>collectif</title>
+      <link>https://example.org/categories/collectif/</link>
+      <pubDate>Tue, 17 Mar 2020 13:47:08 +0200</pubDate>
+      
+      <guid>https://example.org/categories/collectif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>villa</title>
+      <link>https://example.org/categories/villa/</link>
+      <pubDate>Sat, 02 Nov 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/categories/villa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hotel</title>
+      <link>https://example.org/categories/hotel/</link>
+      <pubDate>Tue, 24 Sep 2013 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/categories/hotel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public</title>
+      <link>https://example.org/categories/public/</link>
+      <pubDate>Fri, 02 Oct 2009 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/categories/public/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

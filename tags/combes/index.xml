@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Combes on Atlas Maîtrise d&#39;oeuvre</title>
+    <link>https://example.org/tags/combes/</link>
+    <description>Recent content in Combes on Atlas Maîtrise d&#39;oeuvre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Mar 2020 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/combes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COMBES</title>
+      <link>https://example.org/blog/2020/03/17/combes/</link>
+      <pubDate>Tue, 17 Mar 2020 13:47:08 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2020/03/17/combes/</guid>
+      <description>Mission Pliotage des tous le corps d&amp;rsquo;états pour le compte de la société ACA.
+Projet Opération d&amp;rsquo;habitation collectif de 47 appartements et 1 niveau de parking sousterrain.</description>
+    </item>
+    
+  </channel>
+</rss>

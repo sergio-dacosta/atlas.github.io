@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>marseille on Atlas Maîtrise d&#39;oeuvre</title>
+    <link>https://example.org/tags/marseille/</link>
+    <description>Recent content in marseille on Atlas Maîtrise d&#39;oeuvre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2009 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/marseille/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Désirée Clary</title>
+      <link>https://example.org/blog/2009/10/02/desiree/</link>
+      <pubDate>Fri, 02 Oct 2009 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2009/10/02/desiree/</guid>
+      <description>Mission Direction technique et pilotage de tous les corps d&amp;rsquo;états pour la société FDO
+Projet Réalistation, au coeur de Marseille de 114 appartements, une école de formation d&amp;rsquo;agent territoriaux, une mairie annexe et 2 espace commerciaux.</description>
+    </item>
+    
+    <item>
+      <title>TOSCANA</title>
+      <link>https://example.org/blog/2008/10/17/toscana/</link>
+      <pubDate>Fri, 17 Oct 2008 13:47:08 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2008/10/17/toscana/</guid>
+      <description>Mission Pliotage des tous le corps d&amp;rsquo;états pour le compte de la société FDO.
+Projet Opération d&amp;rsquo;habitation collectif de 114 appartements sur les hauteurs de Marseille et 2 niveau de parking sousterrain.</description>
+    </item>
+    
+  </channel>
+</rss>
